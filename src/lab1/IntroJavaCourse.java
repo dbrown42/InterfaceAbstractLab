@@ -8,9 +8,11 @@ package lab1;
  */
 import javax.swing.JOptionPane;
 public class IntroJavaCourse extends CollegeCourse{
+/*
     private String courseName;
     private String courseNumber;
     private double credits;
+*/
     private String prerequisites;
 
     public IntroJavaCourse(String courseName, String courseNumber, double credits, String instructors, String prerequisites) {
